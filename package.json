@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg1",
+  "version": "1.0.0",
+  "description": "rpg game",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asaelens02/jest-another-RPG1.git"
+  },
+  "author": "A. Saelens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asaelens02/jest-another-RPG1/issues"
+  },
+  "homepage": "https://github.com/asaelens02/jest-another-RPG1#readme",
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
